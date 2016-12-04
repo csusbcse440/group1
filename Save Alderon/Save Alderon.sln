@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FFA31928-EE85-AC2B-4EF1-7410DDAF8BB6}") = "Save Alderon", "Assembly-CSharp.csproj", "{387F39A7-F04D-C079-5140-CC2C5263D647}"
+EndProject
+Project("{FFA31928-EE85-AC2B-4EF1-7410DDAF8BB6}") = "Save Alderon", "Assembly-UnityScript.unityproj", "{7B96F789-39D4-0B6C-8378-4A395D41FA35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387F39A7-F04D-C079-5140-CC2C5263D647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387F39A7-F04D-C079-5140-CC2C5263D647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387F39A7-F04D-C079-5140-CC2C5263D647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387F39A7-F04D-C079-5140-CC2C5263D647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B96F789-39D4-0B6C-8378-4A395D41FA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B96F789-39D4-0B6C-8378-4A395D41FA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B96F789-39D4-0B6C-8378-4A395D41FA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B96F789-39D4-0B6C-8378-4A395D41FA35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
